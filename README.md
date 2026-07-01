@@ -9,4 +9,4 @@ Using these, I drew my first two pixel arts. The first is a singular cube and th
 ### 2026 6 30
 I made a single potion sprite and finished up the book from yesterday. Everything moving smoothly.
 ### 2026 7 1
-today
+I started work on a potted plant, but I couldn't finish it today. I'll work on it tomorrow. Try and get it finished.
