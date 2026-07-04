@@ -12,4 +12,6 @@ I made a single potion sprite and finished up the book from yesterday. Everythin
 I started work on a potted plant, but I couldn't finish it today. I'll work on it tomorrow. Try and get it finished.
 ### 2026 7 3
 I will call it quits on the plant project for now, I neither have the skills nor the interest to continue this organic 
-pixel art. I will probably continue or finish it later in the future, but for now it is considered "done."
+pixel art. I will probably continue or finish it later in the future, but for now it is considered "done."\
+\
+I will instead start work on a new pixel art. It will be a simple background.
