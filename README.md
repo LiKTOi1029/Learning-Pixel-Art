@@ -15,3 +15,10 @@ I will call it quits on the plant project for now, I neither have the skills nor
 pixel art. I will probably continue or finish it later in the future, but for now it is considered "done."\
 \
 I will instead start work on a new pixel art. It will be a simple background.
+### 2026 7 5
+I finished up the background pixel art. I think it looks acceptable. I'll move on to draw another background pixel art 
+because the last one taught me a lot about all sorts of stuff while I was drawing it. I will definitely be doing that 
+one again, but different.\
+\
+I will try and use a smaller palette now. I want to use the [Robots Are Cool](https://lospec.com/palette-list/robots-are-cool) 
+palette already!
