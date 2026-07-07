@@ -22,3 +22,6 @@ one again, but different.\
 \
 I will try and use a smaller palette now. I want to use the [Robots Are Cool](https://lospec.com/palette-list/robots-are-cool) 
 palette already!
+### 2026 7 7
+I haven't made much progress on RobotHead, I haven't had much time lately in spite of programming projects. I will try 
+and make small improvements and changes to the robot head as time goes on and finish it eventually.
