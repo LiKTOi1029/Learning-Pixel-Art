@@ -30,3 +30,5 @@ I have made some progress on RobotHead, but now I have started on a different ki
 I am working on called `Shahr & Jang`. I expect it to be finished by the end of the year, but no promises. I am 
 busy working on it. As for RobotHead, I will continue work on that passively alongside other things. I like my 
 RobotHead, but I can't decide which facial features look best, but I am slowly making my way there.
+
+I added a (currently unfinished) player sprite for `Shahr & Jang`
