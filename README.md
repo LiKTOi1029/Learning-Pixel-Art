@@ -32,3 +32,12 @@ busy working on it. As for RobotHead, I will continue work on that passively alo
 RobotHead, but I can't decide which facial features look best, but I am slowly making my way there.
 
 I added a (currently unfinished) player sprite for `Shahr & Jang`
+### 2026 7 18
+Starting a challenge to draw a something pixelated every single day for 100 days until I get good. I also worked a little bit on 
+RobotHead and made some new eye design. I think the new design is pretty sick, I will work a bit more on it later 
+in the future.
+### 2026 7 19
+I literally missed the second day. I reset the clock to 100 days starting 2026 7 20
+### 2026 7 20
+Alright the time has come to download a new palette. I will be using the [DustByte by Polyphrog](https://lospec.com/palette-list/dustbyte) 
+I will use this new font to draw some basic items. I will draw a sword.
