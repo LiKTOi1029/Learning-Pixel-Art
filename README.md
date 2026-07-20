@@ -40,4 +40,5 @@ in the future.
 I literally missed the second day. I reset the clock to 100 days starting 2026 7 20
 ### 2026 7 20
 Alright the time has come to download a new palette. I will be using the [DustByte by Polyphrog](https://lospec.com/palette-list/dustbyte) 
-I will use this new font to draw some basic items. I will draw a sword.
+I will use this new font to draw some basic items. I will draw a simple sword. I would like to draw more, but it's already 
+late in the night and I spent all of my time programming Adore.lua.
