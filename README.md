@@ -42,3 +42,7 @@ I literally missed the second day. I reset the clock to 100 days starting 2026 7
 Alright the time has come to download a new palette. I will be using the [DustByte by Polyphrog](https://lospec.com/palette-list/dustbyte) 
 I will use this new font to draw some basic items. I will draw a simple sword. I would like to draw more, but it's already 
 late in the night and I spent all of my time programming Adore.lua.
+### 2026 7 21
+I started drawing a little bit eariler today. I will use the same palette I used yesterday. This time, I want to draw 
+a video game tile-map and then use it to actually build a video game map. Next, I am going to use that same tile-map 
+to build a simple platformer game for fun.
