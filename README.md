@@ -46,3 +46,9 @@ late in the night and I spent all of my time programming Adore.lua.
 I started drawing a little bit eariler today. I will use the same palette I used yesterday. This time, I want to draw 
 a video game tile-map and then use it to actually build a video game map. Next, I am going to use that same tile-map 
 to build a simple platformer game for fun.
+### 2026 7 22
+I added [Monometalic by Darkeyed-Commission Open](https://lospec.com/palette-list/monometalic) to use it for more tile-maps. 
+I want to make a new kind of tilemap. This time, I want to do each tile as a 16x16 texture. I don't want the tiles to look 
+so flat like the last tile-map I made. I am going to separate into two different gimp projects as well. The first gimp 
+project will be the tiles themselves and the other will be the map I build with it. I'm going to try and keep it small enough 
+to finish in a single day like last time.
