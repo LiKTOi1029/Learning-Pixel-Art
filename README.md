@@ -51,4 +51,9 @@ I added [Monometalic by Darkeyed-Commission Open](https://lospec.com/palette-lis
 I want to make a new kind of tilemap. This time, I want to do each tile as a 16x16 texture. I don't want the tiles to look 
 so flat like the last tile-map I made. I am going to separate into two different gimp projects as well. The first gimp 
 project will be the tiles themselves and the other will be the map I build with it. I'm going to try and keep it small enough 
-to finish in a single day like last time.
+to finish in a single day like last time.\
+\
+Alright, I have spent some time thinking and contemplating on this, It doesn't look like a whole lot right now, 
+just one empty canvas partially filled with walkways, however I am going to make up for it tomorrow 
+when I give this tile-map its last, finishing touches. After this I am going back to 8x8 and leaving 16x16 for 
+when I gain more experience this is definitely not easy. In fact, it's a lot harder than it looks.
