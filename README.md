@@ -57,3 +57,10 @@ Alright, I have spent some time thinking and contemplating on this, It doesn't l
 just one empty canvas partially filled with walkways, however I am going to make up for it tomorrow 
 when I give this tile-map its last, finishing touches. After this I am going back to 8x8 and leaving 16x16 for 
 when I gain more experience this is definitely not easy. In fact, it's a lot harder than it looks.
+### 2026 7 23
+I will continue the project from yesterday, but I also will create a new folder named `strategygamesprites/` 
+for sprites I am building for a small-scale strategy game. I will probably create my own palette for the 
+sprites for my game. I have begun to understand the rationale behind palettes and I think I can nail a 
+pretty good green-only palette for my game. I want a pixelated green aesthetic.\
+\
+Back, after about 20~ minutes give or take I came up with a palette I liked. I am going to use it now \:\>
