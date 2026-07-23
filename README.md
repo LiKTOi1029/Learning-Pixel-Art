@@ -63,4 +63,7 @@ for sprites I am building for a small-scale strategy game. I will probably creat
 sprites for my game. I have begun to understand the rationale behind palettes and I think I can nail a 
 pretty good green-only palette for my game. I want a pixelated green aesthetic.\
 \
-Back, after about 20~ minutes give or take I came up with a palette I liked. I am going to use it now \:\>
+Back, after about 20~ minutes give or take I came up with a palette I liked. I am going to use it now \:\>\
+\
+My sprite is fully finished. I have completed the Pawn sprite. It wasn't difficult because of the smaller res, 
+but regardless it was very fun going from scratch to a decent-looking pixelated sprite.
