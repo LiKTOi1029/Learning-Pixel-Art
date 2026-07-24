@@ -66,4 +66,11 @@ pretty good green-only palette for my game. I want a pixelated green aesthetic.\
 Back, after about 20~ minutes give or take I came up with a palette I liked. I am going to use it now \:\>\
 \
 My sprite is fully finished. I have completed the Pawn sprite. It wasn't difficult because of the smaller res, 
-but regardless it was very fun going from scratch to a decent-looking pixelated sprite.
+but regardless it was very fun going from scratch to a decent-looking pixelated sprite.\
+\
+Minimal progress on my `2026_7_22` project which realistically should've been finished today and something else 
+should have been started tomorrow. Maybe I can make that happen.
+### 2026 7 24
+Today I wrapped up the `2026_7_22` project. Although there is definitely more I wanted to add, I want to also work 
+on other projects. Hence, I will call the cap on the juice and clad the burrito in poo and trot along to other, 
+more personally interesting projects.
