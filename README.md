@@ -74,3 +74,8 @@ should have been started tomorrow. Maybe I can make that happen.
 Today I wrapped up the `2026_7_22` project. Although there is definitely more I wanted to add, I want to also work 
 on other projects. Hence, I will call the cap on the juice and clad the burrito in poo and trot along to other, 
 more personally interesting projects.
+### 2026 7 25
+I don't feel good today at all. I did a small scale 32x32 art and called it PewPew Machine. I know it's literally 
+the most low-effort project to ever exist, but I do feel genuinely stomach-sick today so I can't really focus. 
+I used [THE PERFECT PALETTE 2.0 by Alessio Benvenuto](https://lospec.com/palette-list/the-perfect-palette-20) to 
+draw this. Hope tomorrow yields a better stomach for me lmao.
