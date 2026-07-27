@@ -79,3 +79,7 @@ I don't feel good today at all. I did a small scale 32x32 art and called it PewP
 the most low-effort project to ever exist, but I do feel genuinely stomach-sick today so I can't really focus. 
 I used [THE PERFECT PALETTE 2.0 by Alessio Benvenuto](https://lospec.com/palette-list/the-perfect-palette-20) to 
 draw this. Hope tomorrow yields a better stomach for me lmao.
+### 2026 7 27
+I decided to make another tilemap, but this time with hexagonal tiles table-top catan style. I will be using the 
+[Robots Are Cool by Enzo Gary](https://lospec.com/palette-list/robots-are-cool) palette to do it. This is a work 
+in progress, I will work on it again tomorrow.
