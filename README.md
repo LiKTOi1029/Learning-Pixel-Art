@@ -83,3 +83,5 @@ draw this. Hope tomorrow yields a better stomach for me lmao.
 I decided to make another tilemap, but this time with hexagonal tiles table-top catan style. I will be using the 
 [Robots Are Cool by Enzo Gary](https://lospec.com/palette-list/robots-are-cool) palette to do it. This is a work 
 in progress, I will work on it again tomorrow.
+### 2026 7 28
+I had no time today so I only did a few minutes of drawing and left `2026_7_27` at that. I will wrap it up in time.
