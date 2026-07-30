@@ -85,3 +85,7 @@ I decided to make another tilemap, but this time with hexagonal tiles table-top 
 in progress, I will work on it again tomorrow.
 ### 2026 7 28
 I had no time today so I only did a few minutes of drawing and left `2026_7_27` at that. I will wrap it up in time.
+### 2026 7 30
+I failed to day anything yesterday as I was incredibly preoccupied, but I am back now. I added a few new hex 
+tiles to the tile collection of `2026_7_27` and I think they look alright. They don't look the best, but then 
+again I will turn this into a turn-based dungeon crawler I think.
