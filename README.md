@@ -89,3 +89,9 @@ I had no time today so I only did a few minutes of drawing and left `2026_7_27` 
 I failed to day anything yesterday as I was incredibly preoccupied, but I am back now. I added a few new hex 
 tiles to the tile collection of `2026_7_27` and I think they look alright. They don't look the best, but then 
 again I will turn this into a turn-based dungeon crawler I think.
+### 2026 7 31
+I have added one new tile to `2026_7_27`. I have not added more than that because it is almost bedtime and I 
+couldn't find the time to do this until literally right now. I am going to submit this for the time being as 
+my progress for the day, but tomorrow I will work more extensively on it. I don't want to leave this until 
+I have at least enough tiles to build a whole map with it. In this way, I can turn this tilemap into an actual 
+video game. Probably a that dungeon crawler idea which I proposed initially.
