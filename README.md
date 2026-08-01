@@ -95,3 +95,10 @@ couldn't find the time to do this until literally right now. I am going to submi
 my progress for the day, but tomorrow I will work more extensively on it. I don't want to leave this until 
 I have at least enough tiles to build a whole map with it. In this way, I can turn this tilemap into an actual 
 video game. Probably a that dungeon crawler idea which I proposed initially.
+### 2026 8 1
+Today is a brand new day, I updated the hex tile I made yesterday and also added three new tiles! A new lattice 
+pattern tile was also added and it is actually one of the best looking ones in my opinion. Then we have a bomb 
+shaped tile and also another tile with crossed, glinting, and slightly stained swords. So far I have 11 tiles 
+in total. `2026_7_27` is starting to take shape. I also decided on how many kinds of tiles I want. To make things 
+rather short, I am going to draw at least 25 tiles. That's where I am going to call it complete for this one. 
+Then, I am going to build a map using the completed hextile grid.
