@@ -102,3 +102,7 @@ shaped tile and also another tile with crossed, glinting, and slightly stained s
 in total. `2026_7_27` is starting to take shape. I also decided on how many kinds of tiles I want. To make things 
 rather short, I am going to draw at least 25 tiles. That's where I am going to call it complete for this one. 
 Then, I am going to build a map using the completed hextile grid.
+### 2026 8 2
+I didn't have much time today, but I did add a new tile and also updated the old `WalkwayTile 1` to look like 
+an actual shore instead of just some dithered pixels. I also added a new tile for cemeteries! It will probably 
+have mobs inside of it in the actual game.
