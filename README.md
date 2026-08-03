@@ -106,3 +106,9 @@ Then, I am going to build a map using the completed hextile grid.
 I didn't have much time today, but I did add a new tile and also updated the old `WalkwayTile 1` to look like 
 an actual shore instead of just some dithered pixels. I also added a new tile for cemeteries! It will probably 
 have mobs inside of it in the actual game.
+### 2026 8 3
+I finished two tiles and also started work on the 15th tile in `2027_7_27`. We have officially surpassed half of the desired 
+number of tiles. I should probably start working on the engine for this simple roguelike. I don't think I'll 
+make it too large scale. A simple setup for the whole game should do just nicely. I added a new brick pattern 
+tile, a new tile with 3 doors, one with a stain splattered outwards from it, and a third campfire in the woods, 
+incomplete as of right now, but I will finish it in the future
