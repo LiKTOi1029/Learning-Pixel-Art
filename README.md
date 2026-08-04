@@ -112,3 +112,7 @@ number of tiles. I should probably start working on the engine for this simple r
 make it too large scale. A simple setup for the whole game should do just nicely. I added a new brick pattern 
 tile, a new tile with 3 doors, one with a stain splattered outwards from it, and a third campfire in the woods, 
 incomplete as of right now, but I will finish it in the future
+### 2026 8 4
+I finished the campfire tile (WalkwayTile 15) and now I am working on a new tile for a suspended crystal. I am 
+not quite sure the exact idea I am going for yet, but I know that it will be a crystal suspended on its own. I 
+didn't have much time beyond this to work on `2026_7_27` today, but I did visit it today as well.
