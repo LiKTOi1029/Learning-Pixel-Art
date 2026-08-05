@@ -116,3 +116,7 @@ incomplete as of right now, but I will finish it in the future
 I finished the campfire tile (WalkwayTile 15) and now I am working on a new tile for a suspended crystal. I am 
 not quite sure the exact idea I am going for yet, but I know that it will be a crystal suspended on its own. I 
 didn't have much time beyond this to work on `2026_7_27` today, but I did visit it today as well.
+### 2026 8 5
+I am building a game in a single day. It's a clone of the mobile game Eatventure (possibly the most boring game 
+I have ever played). I am doing this because when I tried the game I thought it was pretty simple to make, so I 
+am now building it in a single day. I added some basic sprites for it thus far.
