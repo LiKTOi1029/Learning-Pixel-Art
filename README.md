@@ -120,3 +120,8 @@ didn't have much time beyond this to work on `2026_7_27` today, but I did visit 
 I am building a game in a single day. It's a clone of the mobile game Eatventure (possibly the most boring game 
 I have ever played). I am doing this because when I tried the game I thought it was pretty simple to make, so I 
 am now building it in a single day. I added some basic sprites for it thus far.
+### 2026 8 6
+In `2026_7_27` I am not quite sure how I could improve on `WalkwayTile 16` so I have decided to add a new, also 
+equally as incomplete tile as `WalkwayTile 16`, `WalkwayTile 17` (creative names I know) which is supposed to be 
+a fork in the road. I am going to be working on both of these soon enough and I'll make them look better. Or maybe 
+even change them, who knows.
