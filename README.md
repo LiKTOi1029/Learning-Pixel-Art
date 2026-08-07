@@ -125,3 +125,10 @@ In `2026_7_27` I am not quite sure how I could improve on `WalkwayTile 16` so I 
 equally as incomplete tile as `WalkwayTile 16`, `WalkwayTile 17` (creative names I know) which is supposed to be 
 a fork in the road. I am going to be working on both of these soon enough and I'll make them look better. Or maybe 
 even change them, who knows.
+### 2026 8 7
+I was thinking about `2026_7_27` and after coming back a few times and seriously considering `WalkwayTile 16` 
+and `WalkwayTile 17` I can't really think of any way to improve them. They are exactly what I want them to be. 
+The former being a gem suspended by some kind of device while the other being a clearly defined road. As a 
+result, I will probably not change them until I feel like I conclusively have something better-looking to 
+replace them with. For the time being, I added another tile, `WalkwayTile 18` in theme with its previous road 
+tile.
