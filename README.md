@@ -132,3 +132,8 @@ The former being a gem suspended by some kind of device while the other being a 
 result, I will probably not change them until I feel like I conclusively have something better-looking to 
 replace them with. For the time being, I added another tile, `WalkwayTile 18` in theme with its previous road 
 tile.
+### 2026 8 8
+I decided to use the same theme as I did for the next two tiles in `2026_7_27`. I added two new road tiles to 
+make a total of 4 road tiles. Diagonal road tile, horizontal fork, and straight verticals and horizontals. I only 
+have 5 more tiles to produce. I also increased the base image height from 128 to 132 as I was 4 pixels short of 
+being able to fit everything onto one single canvas.
