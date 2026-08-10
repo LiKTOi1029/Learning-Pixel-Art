@@ -139,3 +139,6 @@ have 5 more tiles to produce. I also increased the base image height from 128 to
 being able to fit everything onto one single canvas.
 ### 2026 8 9
 Finished one more tile in `2026_7_27`. Jail tile added.
+### 2026 8 10
+Tweaked all tiles' borders in `2026_7_27` and also added two new tiles, a penrose lattice and a clock tile, but 
+have not finished clock tile just yet.
