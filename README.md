@@ -142,3 +142,10 @@ Finished one more tile in `2026_7_27`. Jail tile added.
 ### 2026 8 10
 Tweaked all tiles' borders in `2026_7_27` and also added two new tiles, a penrose lattice and a clock tile, but 
 have not finished clock tile just yet.
+### 2026 8 11
+I have finally completed `2026_7_27` and it looks awfully simple, but it's my awfully simple so it's all cool. 
+I finished the clock tile, I think it looks very much like a clock now. I also added a vertical fork tile because 
+I already had a horizontal fork, but no vertical forks. I additionally also added a hallway tile where its' a 
+single hallway with a door at the end of it. The final tile is a bonus tile I added. That being a completely 
+empty tile for the parts of the map that won't have anything in them. Now, I am going to work on some sprites 
+tomorrow.
