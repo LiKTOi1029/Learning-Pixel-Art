@@ -149,3 +149,7 @@ I already had a horizontal fork, but no vertical forks. I additionally also adde
 single hallway with a door at the end of it. The final tile is a bonus tile I added. That being a completely 
 empty tile for the parts of the map that won't have anything in them. Now, I am going to work on some sprites 
 tomorrow.
+### 2026 8 12
+I haven't done much today, but I decided to finish the robot head in `2026_7_5` and actually draw something 
+good looking. Right now I set up some guidelines and cleaned up the `RobotHead.xcf` file. I only had about 10 
+minutes today so take it or leave it I couldn't get much done.
