@@ -153,3 +153,7 @@ tomorrow.
 I haven't done much today, but I decided to finish the robot head in `2026_7_5` and actually draw something 
 good looking. Right now I set up some guidelines and cleaned up the `RobotHead.xcf` file. I only had about 10 
 minutes today so take it or leave it I couldn't get much done.
+### 2026 8 13
+It seems like right now is a pretty busy time in my life, but I am cramming whatever I can from my time into 
+this project. I did a little bit of work on the circular disk part of the `RobotHead` drawing in `2026_7_5` 
+and I think it looks pretty interesting. It conveys the cyber-aesthetic I'm going for with this pixel art.
