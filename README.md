@@ -161,3 +161,8 @@ and I think it looks pretty interesting. It conveys the cyber-aesthetic I'm goin
 I could only get here to work on the picture late at night, but I am here now. It's currently 8 PM which to be 
 fair isn't the end of the world I did revisit my art repository like I always do. `2026_7_5` I invested another 
 generous 10 minutes. No real changes, just some coloring and a new segment filled out, ready for detailing.
+### 2026 8 15
+I got another 10 minutes into the project. I think it is going well given I am going 10 minutes by 10 minutes a 
+day. In `2026_7_5` I decided I wanted to try dithering a little bit to see how it would look if used a lot. I am 
+not sure if I like it to be honest, but it looks kinda interesting. I just have to spend a little bit of time 
+working on **how** it is dithered rather than **if** it is dithered.
