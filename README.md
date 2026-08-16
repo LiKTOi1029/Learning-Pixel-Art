@@ -166,3 +166,9 @@ I got another 10 minutes into the project. I think it is going well given I am g
 day. In `2026_7_5` I decided I wanted to try dithering a little bit to see how it would look if used a lot. I am 
 not sure if I like it to be honest, but it looks kinda interesting. I just have to spend a little bit of time 
 working on **how** it is dithered rather than **if** it is dithered.
+### 2026 8 16
+Another 10 minutes invested into `2026_7_5` les gooo. Although, I have to say the dithering I applied didn't look 
+right after peeking a second look at the resulting effect it had. I think it was very out of place now that I 
+look back on it. I did fiddle with it for a little while and inevitably decided I wanted to get rid of the 
+dithering and add an outline instead. I think this looks way more in tune with what I actually want the robot's 
+head to look like.
