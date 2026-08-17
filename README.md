@@ -172,3 +172,7 @@ right after peeking a second look at the resulting effect it had. I think it was
 look back on it. I did fiddle with it for a little while and inevitably decided I wanted to get rid of the 
 dithering and add an outline instead. I think this looks way more in tune with what I actually want the robot's 
 head to look like.
+### 2026 8 17
+I haven't had much time today either, but I decided to work on a logo for Luampressor which is a project I am 
+working on for compressing text files down into small sizes. I want to try building megabyte-long passwords. 
+`2026_8_17` is what I called the folder. I will be making progress on it slowly
