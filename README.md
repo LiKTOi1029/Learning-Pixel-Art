@@ -176,3 +176,9 @@ head to look like.
 I haven't had much time today either, but I decided to work on a logo for Luampressor which is a project I am 
 working on for compressing text files down into small sizes. I want to try building megabyte-long passwords. 
 `2026_8_17` is what I called the folder. I will be making progress on it slowly
+### 2026 8 18
+I think I am happy with how `2026_8_17` looks now. I will work on something else tomorrow. I need to lock in. 
+I am going to try a different method for scheduling my time. Instead of time blocking it and having it totally 
+lolled out of existence due to other pending responsibilities, I am going to stop time blocking and instead take 
+an opportunists approach where I quite literally find any time at all to fit my work into. Albeit I am atp using 
+the unusable scraps of freetime I have, but who cares I'm learning how to do pixel art so I am not bad at it. 
