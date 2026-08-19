@@ -182,3 +182,8 @@ I am going to try a different method for scheduling my time. Instead of time blo
 lolled out of existence due to other pending responsibilities, I am going to stop time blocking and instead take 
 an opportunists approach where I quite literally find any time at all to fit my work into. Albeit I am atp using 
 the unusable scraps of freetime I have, but who cares I'm learning how to do pixel art so I am not bad at it. 
+### 2026 8 19
+It really didn't help to schedule time differently. I did put in 10 more minutes, though. I worked on 
+`strategygamesprites/units/GoodGuys/Pawn.xcf` specifically. I plan to build a whole spritesheet of at least 4 
+good unit types and 4 bad unit types. I want at least 10 map assets and 4 maps. This doesn't sound like a lot, 
+but considering how many days this will take, I think this will keep me occupied for some time.
