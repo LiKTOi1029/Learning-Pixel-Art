@@ -187,3 +187,6 @@ It really didn't help to schedule time differently. I did put in 10 more minutes
 `strategygamesprites/units/GoodGuys/Pawn.xcf` specifically. I plan to build a whole spritesheet of at least 4 
 good unit types and 4 bad unit types. I want at least 10 map assets and 4 maps. This doesn't sound like a lot, 
 but considering how many days this will take, I think this will keep me occupied for some time.
+### 2026 8 20
+I updated the `strategygamesprites/units/GoodGuys/Pawn.xcf` sprite again. I added some new quads to it. I will 
+be adding more tomorrow.
