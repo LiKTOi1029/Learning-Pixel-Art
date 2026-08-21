@@ -190,3 +190,6 @@ but considering how many days this will take, I think this will keep me occupied
 ### 2026 8 20
 I updated the `strategygamesprites/units/GoodGuys/Pawn.xcf` sprite again. I added some new quads to it. I will 
 be adding more tomorrow.
+### 2026 8 21
+I updated the `strategygamesprites/units/GoodGuys/Pawn.xcf` sprite once more. I added more quads for and also 
+increased the width of the image to add more quads into the future.
